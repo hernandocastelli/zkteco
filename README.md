@@ -3,6 +3,8 @@
 This Python script is designed to exploit an IDOR vulnerability in some ZKTeco devices.
 There are URLs that can be accessed without any authentication, only the IP of the device is required and you can open the door or reboot the device.
 
+![ZKTECO](https://github.com/hernandocastelli/zkteco/assets/150078766/103b8382-63b6-4fe8-85d8-dcf3cbca001a)
+
 ## Installation
 
 1. Clone this repository to your local machine:
